@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#bg{
+    width: 100%;
+    height: 500px;
+    background-image: url(https://appbaytech.com/wp-content/uploads/2024/11/react_training.jpg);
+    background-position: center;
+    background-attachment: fixed;
+}
+#lbtn{
+    position: absolute;
+    padding: 10px 20px;
+    top: 40%;
+    left: 45%;
+    background-color: aliceblue;
+}
+
